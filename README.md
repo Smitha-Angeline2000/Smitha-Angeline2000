@@ -22,13 +22,13 @@
 ## 🔬 Featured Project
 
 **ECG Reader: Pulse Transit Time Monitor**  
-A biomedical device using **Arduino Uno**, **AD8232**, and **MAX30102** to read ECG signals and display Pulse Transit Time. (on hold for now)
+A biomedical device using **Arduino Uno**, **AD8232**, and **MAX30102** to read ECG signals and display Pulse Transit Time. 
 
 ---
 
 ## 🗣️ More About Me
 
-- 💻 **Adept gamer and tech enthusiast**
+- 💻 **Adept Gamer and Tech Enthusiast**
 - 🎤 **Public Speaker, Debater & Writer**
 - 🎹 **Piano Enthusiast**
 - 📚 **Harry Potter Series Superfan**
