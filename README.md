@@ -6,8 +6,8 @@
 ---
 
 🎓 **First Year Student at VIT Vellore**  
-🌟 Passionate about everything related to electionics and biology. --
-✨ Learning to master tech from scratch.
+- 🌟 Passionate about everything related to electronics and biology
+- ✨ Learning to master tech from scratch
 
 ---
 
@@ -42,5 +42,5 @@ A biomedical device using **Arduino Uno**, **AD8232**, and **MAX30102** to read 
 
 ---
 
-*Let's create, collaborate, and build a bright future together!*
+
 
