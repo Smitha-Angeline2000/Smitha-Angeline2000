@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**Smitha-Angeline2000/Smitha-Angeline2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Smitha Angeline Solomon!
 
-Here are some ideas to get you started:
+> *"The past isn't welcoming, but the future always is."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🎓 **First Year Student at VIT Vellore**  
+🌟 Passionate about everything related to electionics and biology. 
+✨ Learning to master tech from scratch.
+
+---
+
+## 🛠️ Tech Skills
+
+- **Python** (Beginner)
+- **HTML** (Beginner)
+- **Arduino Projects**
+
+---
+
+## 🔬 Featured Project
+
+**ECG Reader: Pulse Transit Time Monitor**  
+A biomedical device using **Arduino Uno**, **AD8232**, and **MAX30102** to read ECG signals and display Pulse Transit Time. (on hold for now)
+
+---
+
+## 🗣️ More About Me
+
+- 💻 **Adept gamer and tech enthusiast**
+- 🎤 **Public Speaker, Debater & Writer**
+- 🎹 **Piano Enthusiast**
+- 📚 **Harry Potter Series Superfan**
+- 🎉 **Avid Event Organizer**
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Smitha%20Angeline%20Solomon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smithaangelinesolomon/)](https://www.linkedin.com/in/smithaangelinesolomon/)
+
+---
+
+*Let's create, collaborate, and build a bright future together!*
+
