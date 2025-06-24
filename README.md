@@ -33,6 +33,7 @@ A biomedical device using **Arduino Uno**, **AD8232**, and **MAX30102** to read 
 - 🎹 **Piano Enthusiast**
 - 📚 **Harry Potter Series Superfan**
 - 🎉 **Avid Event Organizer**
+- 🫁 **Biology Person**
 
 ---
 
