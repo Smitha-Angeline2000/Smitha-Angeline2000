@@ -6,7 +6,7 @@
 ---
 
 🎓 **First Year Student at VIT Vellore**  
-🌟 Passionate about everything related to electionics and biology. 
+🌟 Passionate about everything related to electionics and biology. --
 ✨ Learning to master tech from scratch.
 
 ---
