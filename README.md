@@ -6,7 +6,6 @@
 ---
 
 🎓 **First Year Student at VIT Vellore**  
-
 🌟 Passionate about everything related to electronics and biology <br>
 ✨ Learning to master tech from scratch
 
